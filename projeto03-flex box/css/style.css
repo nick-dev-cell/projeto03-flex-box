@@ -1,0 +1,14 @@
+body{
+    font-family: 'Lato', sans-serif, /*Uma fonte sans-serif moderna*/
+
+    background-color #f0f4f8;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px; /*Adiciona um respiro zaso a tela seja pequena*/
+
+     }
+
+     
